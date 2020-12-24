@@ -1,0 +1,36 @@
+@media (max-width:992px) {
+    .main-slider__controls {
+        display: none;
+    }
+    .main-slider__content {
+        padding: 15px;
+    }
+}
+@media (max-width:768px) {
+    .header__title {
+        font-size: 50px;
+    }
+    .header__discription {
+        font-size: 20px;
+        text-align: justify;
+    }
+    .main-slider__slide img {
+        height: 400px;
+    }
+    .main-slider__content_title {
+        text-align: center;
+    }
+    .work-tabContent__text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .footer__logo {
+        margin-bottom: 20px;
+    }
+    .footer__nav {
+        margin-bottom: 20px;
+    }
+}
+@media (max-width:576px) {
+    
+}
